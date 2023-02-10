@@ -1,9 +1,9 @@
 .App {
   text-align: center;
-  background-color: #282c34;
-  color: greenyellow;
 }
 
-.App-link {
-  color: #61dafb;
+.my-photo{
+  height: 30%;
+  width: 30%;
 }
+
