@@ -1,0 +1,22 @@
+.landing-page{
+    display: flex;
+    align-items: center;
+}
+
+.landing-page img {
+    width: 30%;
+    height: 30%;
+}
+
+.landing-page h1{
+    font-size: 3em;
+    color: antiquewhite;
+}
+
+.context{
+    display: inline;
+    padding: 2em;
+    border: 2px solid #000;
+    border-radius: 10px;
+    background-color: rgb(240, 248, 255, 0.1);
+}
